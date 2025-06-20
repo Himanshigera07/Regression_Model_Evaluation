@@ -41,3 +41,6 @@ These metrics indicate that the model explains approximately 87% of the variance
 
 ## 🔗 Author
 Himanshi Gera
+
+[LinkedIn] (www.linkedin.com/in/himanshi-gera-b15558278)
+---
